@@ -1,4 +1,4 @@
-# My practise  Front-End 
+## Code a website,week 1 practise.
 
-## The Design
+In this week my front-end practise i turn a design created last week, to front-end html & css.
 
